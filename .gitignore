@@ -1,9 +1,11 @@
-__pycache__/
-*.pyc
-venv/
-.venv/
-*.egg-info/
+# Компилированные файлы Java
+*.class
+out/
+
+# IntelliJ IDEA
 .idea/
 *.iml
-.vscode/
+
+# ОС
 .DS_Store
+Thumbs.db
