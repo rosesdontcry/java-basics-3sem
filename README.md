@@ -3,4 +3,5 @@
 | № | Тема | Задание | Реализация |
 |---|---|---|---|
 | 1 | Классы | [Создание первых классов](docks/lab1_tasks.md) | [src](src/lab1) |
-| 2 | Календарь | [1. Работа с GregorianCalendar <br> 2. Создание таймера](docks/lab2_tasks.md) | [src](src/lab2) |
+| 2 | Классы | [1. Работа с GregorianCalendar <br> 2. Создание таймера](docks/lab2_tasks.md) | [src](src/lab2) |
+| 3 | Классы | [1. Найти наибольшее значение <br> 2. Вывод времени](docks/lab3_tasks.md) | [src](src/lab3) |
