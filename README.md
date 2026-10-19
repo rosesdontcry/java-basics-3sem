@@ -5,3 +5,5 @@
 | 1 | Классы | [Создание первых классов](docks/lab1_tasks.md) | [src](src/lab1) |
 | 2 | Классы | [1. Работа с GregorianCalendar <br> 2. Создание таймера](docks/lab2_tasks.md) | [src](src/lab2) |
 | 3 | Классы | [1. Найти наибольшее значение <br> 2. Вывод времени](docks/lab3_tasks.md) | [src](src/lab3) |
+| 4 | Классы | [1. MyCharacter <br> 2. MyString2](docks/lab4_tasks.md) | [src](src/lab4) |
+| 5 | abstract, <br> interface|[1. <br> 2. ](docks/lab5_tasks.md)| [src](src/lab5) |
