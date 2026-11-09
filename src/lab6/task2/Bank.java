@@ -8,9 +8,12 @@ public class Bank {
     private static final int MIN_TERM = 6;
     private List<LoanRequest> loans = new ArrayList<>();
 
-    public void approveLoan(LoanRequest loan) throws InvalidAmountException, InvalidTermException {
-        if (loan.getSum() < MIN_AMOUNT) throw new InvalidAmountException(loan.getSum(), MIN_AMOUNT);
-        if (loan.getTermMonths() < MIN_TERM) throw new InvalidTermException(loan.getTermMonths(), MIN_TERM);
+    public void approveLoan(LoanRequest loan)
+            throws InvalidAmountException, InvalidTermException {
+        if (loan.getSum() < MIN_AMOUNT)
+            throw new InvalidAmountException(loan.getSum(), MIN_AMOUNT);
+        if (loan.getTermMonths() < MIN_TERM)
+            throw new InvalidTermException(loan.getTermMonths(), MIN_TERM);
         loans.add(loan);
     }
 
